@@ -20,6 +20,6 @@ Do you need a simple app to jott down notes? Well This app does just that. The a
 
 
 ## The final production:
-![note-jotter-home](./assets/notes-screenshot-home.png)
-![note-jotter-main](./assets/notes-screenshot-main.png)
-![note-jotter-deleted](./assets/notes-screenshot-delete.png)
+![note-jotter-home](./Assets/notes-screenshot-home.png)
+![note-jotter-main](./Assets/notes-screenshot-main.png)
+![note-jotter-deleted](./Assets/notes-screenshot-delete.png)
